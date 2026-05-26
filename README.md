@@ -1,4 +1,4 @@
-# spicetify-wine-night  
+# Wine Night  
 
 My first own Spicetify theme.  
 
