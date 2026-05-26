@@ -4,7 +4,7 @@ My first own Spicetify theme.
 
 ### _I appreciate any pull requets and help for my theme!_  
 
-<img width="1362" height="780" alt="preview" src="https://github.com/pepegog/spicetify-wine-night/refs/heads/main/github/preview.png" />  
+<img width="1362" height="780" alt="preview" src="https://raw.githubusercontent.com/pepegog/spicetify-wine-night/refs/heads/main/github/preview.png" />  
 
 # Manual Installation <br/>
 
